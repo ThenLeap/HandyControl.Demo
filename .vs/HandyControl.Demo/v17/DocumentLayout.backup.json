@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jony\\Desktop\\HandyControl.Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A5856B-B820-4885-B009-09ED6292DC83}|HandyControl.Demo.SideMenu\\HandyControl.Demo.SideMenu.csproj|c:\\users\\jony\\desktop\\handycontrol.demo\\handycontrol.demo.sidemenu\\views\\basicsettingspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C6A5856B-B820-4885-B009-09ED6292DC83}|HandyControl.Demo.SideMenu\\HandyControl.Demo.SideMenu.csproj|solutionrelative:handycontrol.demo.sidemenu\\views\\basicsettingspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jony\\Desktop\\AdminManage\\AdminManage\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jony\\Desktop\\AdminManage\\AdminManage\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jony\\Desktop\\AdminManage\\AdminManage\\Models\\MenuItemModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A5856B-B820-4885-B009-09ED6292DC83}|HandyControl.Demo.SideMenu\\HandyControl.Demo.SideMenu.csproj|c:\\users\\jony\\desktop\\handycontrol.demo\\handycontrol.demo.sidemenu\\views\\analyticspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C6A5856B-B820-4885-B009-09ED6292DC83}|HandyControl.Demo.SideMenu\\HandyControl.Demo.SideMenu.csproj|solutionrelative:handycontrol.demo.sidemenu\\views\\analyticspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A5856B-B820-4885-B009-09ED6292DC83}|HandyControl.Demo.SideMenu\\HandyControl.Demo.SideMenu.csproj|c:\\users\\jony\\desktop\\handycontrol.demo\\handycontrol.demo.sidemenu\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C6A5856B-B820-4885-B009-09ED6292DC83}|HandyControl.Demo.SideMenu\\HandyControl.Demo.SideMenu.csproj|solutionrelative:handycontrol.demo.sidemenu\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A5856B-B820-4885-B009-09ED6292DC83}|HandyControl.Demo.SideMenu\\HandyControl.Demo.SideMenu.csproj|c:\\users\\jony\\desktop\\handycontrol.demo\\handycontrol.demo.sidemenu\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C6A5856B-B820-4885-B009-09ED6292DC83}|HandyControl.Demo.SideMenu\\HandyControl.Demo.SideMenu.csproj|solutionrelative:handycontrol.demo.sidemenu\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A5856B-B820-4885-B009-09ED6292DC83}|HandyControl.Demo.SideMenu\\HandyControl.Demo.SideMenu.csproj|c:\\users\\jony\\desktop\\handycontrol.demo\\handycontrol.demo.sidemenu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A5856B-B820-4885-B009-09ED6292DC83}|HandyControl.Demo.SideMenu\\HandyControl.Demo.SideMenu.csproj|solutionrelative:handycontrol.demo.sidemenu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasicSettingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jony\\Desktop\\HandyControl.Demo\\HandyControl.Demo.SideMenu\\Views\\BasicSettingsPage.xaml",
+              "RelativeDocumentMoniker": "HandyControl.Demo.SideMenu\\Views\\BasicSettingsPage.xaml",
+              "ToolTip": "C:\\Users\\Jony\\Desktop\\HandyControl.Demo\\HandyControl.Demo.SideMenu\\Views\\BasicSettingsPage.xaml",
+              "RelativeToolTip": "HandyControl.Demo.SideMenu\\Views\\BasicSettingsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-01T08:25:50.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnalyticsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jony\\Desktop\\HandyControl.Demo\\HandyControl.Demo.SideMenu\\Views\\AnalyticsPage.xaml",
+              "RelativeDocumentMoniker": "HandyControl.Demo.SideMenu\\Views\\AnalyticsPage.xaml",
+              "ToolTip": "C:\\Users\\Jony\\Desktop\\HandyControl.Demo\\HandyControl.Demo.SideMenu\\Views\\AnalyticsPage.xaml",
+              "RelativeToolTip": "HandyControl.Demo.SideMenu\\Views\\AnalyticsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-01T08:25:26.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Jony\\Desktop\\HandyControl.Demo\\HandyControl.Demo.SideMenu\\App.xaml",
+              "RelativeDocumentMoniker": "HandyControl.Demo.SideMenu\\App.xaml",
+              "ToolTip": "C:\\Users\\Jony\\Desktop\\HandyControl.Demo\\HandyControl.Demo.SideMenu\\App.xaml",
+              "RelativeToolTip": "HandyControl.Demo.SideMenu\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-01T08:25:18.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jony\\Desktop\\HandyControl.Demo\\HandyControl.Demo.SideMenu\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HandyControl.Demo.SideMenu\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jony\\Desktop\\HandyControl.Demo\\HandyControl.Demo.SideMenu\\MainWindow.xaml",
+              "RelativeToolTip": "HandyControl.Demo.SideMenu\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-01T08:25:03.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jony\\Desktop\\HandyControl.Demo\\HandyControl.Demo.SideMenu\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HandyControl.Demo.SideMenu\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jony\\Desktop\\HandyControl.Demo\\HandyControl.Demo.SideMenu\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HandyControl.Demo.SideMenu\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:24:58.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Jony\\Desktop\\AdminManage\\AdminManage\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\AdminManage\\AdminManage\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Jony\\Desktop\\AdminManage\\AdminManage\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\AdminManage\\AdminManage\\AssemblyInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:18:17.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jony\\Desktop\\AdminManage\\AdminManage\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\AdminManage\\AdminManage\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jony\\Desktop\\AdminManage\\AdminManage\\MainWindow.xaml",
+              "RelativeToolTip": "..\\AdminManage\\AdminManage\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-01T08:18:11.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jony\\Desktop\\AdminManage\\AdminManage\\Models\\MenuItemModel.cs",
+              "RelativeDocumentMoniker": "..\\AdminManage\\AdminManage\\Models\\MenuItemModel.cs",
+              "ToolTip": "C:\\Users\\Jony\\Desktop\\AdminManage\\AdminManage\\Models\\MenuItemModel.cs",
+              "RelativeToolTip": "..\\AdminManage\\AdminManage\\Models\\MenuItemModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:17:56.284Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
